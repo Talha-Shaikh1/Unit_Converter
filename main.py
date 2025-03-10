@@ -8,7 +8,7 @@ st.markdown("""
     "@context": "https://schema.org",
     "@type": "WebApplication",
     "name": "Ultimate Unit Converter",
-    "url": "https://your-streamlit-app-link",
+    "url": "https://konverter.streamlit.app",
     "description": "Convert Length, Weight, Temperature, Time, and Volume easily!",
     "applicationCategory": "Utility"
 }
