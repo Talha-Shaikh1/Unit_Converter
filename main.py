@@ -6,7 +6,6 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.set_page_config(page_title="Ultimate Unit Converter - Convert Length, Weight, Temperature, Time", page_icon="🔄")
 st.markdown('<meta name="description" content="Best Online Unit Converter for Length, Weight, Temperature, Time, and Volume. Convert meters to kilometers, Celsius to Fahrenheit, and more instantly!">', unsafe_allow_html=True)
 
 st.markdown("""
